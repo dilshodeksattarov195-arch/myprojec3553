@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterfrocess",
+        "uuid": 16489473,
+        "checksum": "9y1la7"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
